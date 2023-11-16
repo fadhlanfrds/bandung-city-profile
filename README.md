@@ -1,1 +1,1 @@
-# bandung-city-profile
+Praktek belajar dari kursus "Belajar Dasar Pemrograman Web" di Dicoding Indonesia, belajar mengetahui dasar-dasar HTML dan CSS, belajar juga mengenai semantic HTML. Dengan adanya pembelajaran ini, menjadi lebih tahu mengenai HTML dan CSS dan tahu agar bagaimana penulisan HTML terlihat rapi sesuai dengan struktur HTMl & Semantic HTML
